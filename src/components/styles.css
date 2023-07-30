@@ -29,14 +29,14 @@
     right: 0px;
     border: none;
     font-size: 15px;
-    background-color: #2f74c0;
+    background-color:#feae4f;
     color: white;
     transition: 0.2s all;
     box-shadow: 0 0 10px black;
   }
   
   .input_submit:hover {
-    background-color: #388ae2;
+    background-color: #f1a447;
   }
   
   .input_submit:active {
@@ -52,14 +52,13 @@
     align-items: flex-start;
   }
   
-  /* .todos {
+  .todos {
     border-radius: 5px;
     display: flex;
     flex-direction: column;
     width: 47.5%;
     padding: 15px;
-    background-color: rgb(50, 195, 205);
-  } */
+  }
   
   .remove {
     background-color: rgb(235, 103, 80);
@@ -67,7 +66,7 @@
   
   .todos__heading {
     font-size: 30px;
-    /* text-align: center; */
+    text-align: center;
     color: white;
   }
   
@@ -76,7 +75,7 @@
     border-radius: 5px;
     padding: 20px;
     margin-top: 15px;
-    background-image: url("https://img.freepik.com/free-photo/crumpled-yellow-paper-background-close-up_60487-2390.jpg?size=626&ext=jpg");
+    background-image: url("https://img.freepik.com/free-photo/orange-background_23-2147674307.jpg");
     transition: 0.2s;
   }
   
